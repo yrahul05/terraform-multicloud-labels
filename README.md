@@ -10,18 +10,15 @@
 > for generating consistent resource names, tags and labels across **AWS, Azure, GCP, DigitalOcean and Hetzner**.
 
 ---
-══════════════════════════════════════════════════════════════
 🎯 WHY THIS MODULE EXISTS
-══════════════════════════════════════════════════════════════
 
 • Consistent naming across AWS, Azure, GCP, DigitalOcean  
 • Sanitized lowercase labels  
 • Cloud-friendly names and tags  
 • Works the same in all environments
 
-══════════════════════════════════════════════════════════════
+
 👤 ABOUT ME
-══════════════════════════════════════════════════════════════
 
 Rahul Yadav  
 Certified Cloud & DevOps Engineer  
@@ -34,9 +31,8 @@ PrimeOps Technologies Services:
 • Multi-cloud architecture  
 • Security & DevSecOps
 
-══════════════════════════════════════════════════════════════
+
 🔗 LINKS
-══════════════════════════════════════════════════════════════
 
 GitHub: https://github.com/yrahul05  
 LinkedIn: https://www.linkedin.com/in/rahulyadavdevops/  
