@@ -39,10 +39,11 @@ LinkedIn: https://www.linkedin.com/in/rahulyadavdevops/
 Upwork: https://www.upwork.com/freelancers/~0183ad8a41e8284283  
 
 --------------------------------------------------------------
+PrimeOps Technologies
 
 Website: https://primeops.co.in/  
-GitHub Org: https://github.com/https://github.com/PrimeOps-Technologies
-Linkedin Org: https://www.linkedin.com/company/primeops-technologies
+GitHub: https://github.com/PrimeOps-Technologies
+Linkedin: https://www.linkedin.com/company/primeops-technologies
 Upwork Agency: https://www.upwork.com/agencies/1990756660262272773/
 
 
